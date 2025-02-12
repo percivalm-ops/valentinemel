@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "my melanie <3",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,14 +22,14 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Do you have a .... date on Friday?",                                    // First interaction
+            yesBtn: "No 🤭",                                             // Text for "Yes" button
+            noBtn: "uh yeah 😒",                                               // Text for "No" button
+            secretAnswer: "hehe secret option ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "I got you a small something.. do you like it?",                          // For the love meter
+            startText: "I love it this much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "omg babe clean up on aisle number love meter 🥰🚀💝",  // Shows when they go past 5000%
+        high: "MWAH MWAH 🚀💝",              // Shows when they go past 1000%
+        normal: "kith kith 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "YAY YIPPEE IM SO EXCITED UR MY VALENTINE! 🎉💝💖💝💓",
+        message: "I shall arrive in a white horse (a red Camry) for a night to remember (whenever Moderna releases me from my shackles)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 

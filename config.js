@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAY YIPPEE IM SO EXCITED UR MY VALENTINE! 🎉💝💖💝💓",
-        message: "I shall arrive in a white horse (a red Camry) for a night to remember (whenever Moderna releases me from my shackles)",
+        message: "I shall arrive in a white horse (a red Camry) for a night to remember (by Laufey and beabodoobee)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 

@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "omg babe clean up on aisle number love meter 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "omg babe i'm glad you like it 🥰🚀💝",  // Shows when they go past 5000%
         high: "MWAH MWAH 🚀💝",              // Shows when they go past 1000%
         normal: "kith kith 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAY YIPPEE IM SO EXCITED UR MY VALENTINE! 🎉💝💖💝💓",
-        message: "I shall arrive in a white horse (a red Camry) for a night to remember (by Laufey and beabodoobee)",
+        title: "Mark the date and be ready for a fun night :)",
+        message: "YAY YIPPEE IM SO EXCITED UR MY VALENTINE! 🎉💝💖💝💓",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
